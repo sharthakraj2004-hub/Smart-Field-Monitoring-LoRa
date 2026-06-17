@@ -164,6 +164,12 @@ The system successfully demonstrated:
 
 ---
 
+## Demonstration
+
+Please refer to the Hardware_Implementation_Video.mp4 & Web_Dashboard_Video.mp4 files in the Results folder for a complete working demonstration of the system.
+
+---
+
 ## Author
 
 Sharthak Raj
